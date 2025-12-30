@@ -22,10 +22,10 @@ I'm passionate about offensive and defensive security, networking, and applying 
 
 ---
 
-### 📊 Stats
+<!--### 📊 Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juni2dev&show_icons=true&theme=github_dark&hide_border=true&hide_title=true)
-
+-->
 ---
 
 ### 📫 Contact
