@@ -1,33 +1,62 @@
-# Hey, I'm Edmond 👋
-
-**Telecommunications** student specializing in **Cybersecurity**.
-
-I'm passionate about offensive and defensive security, networking, and applying Machine Learning to threat detection.
+<h1 align="center">Hi 👋, I'm Edmond</h1>
+<h3 align="center">Cybersecurity & Network Engineer | Offensive & Defensive Security</h3>
 
 ---
 
-### 🛠 Tech Stack
+## 👨‍💻 About Me
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+🎓 Telecommunications Engineering specialized in Cybersecurity  
+🔐 Passionate about Offensive Security, Network Defense & Threat Detection  
+🧠 Interested in applying Machine Learning to Cybersecurity  
 
 ---
 
-### 🔐 Featured Project
+## 🛡️ Core Expertise
 
-**[phishing-detection-ml](https://github.com/juni2dev/phishing-detection-ml)** — Phishing website detection using Machine Learning. URL feature analysis and classification to identify malicious sites.
+- Network Security & Hardening
+- SOC Analysis & Threat Detection
+- Phishing Detection using Machine Learning
+- Packet Analysis (Wireshark)
+- Secure Network Architecture
+- Linux System Administration
 
 ---
 
-<!--### 📊 Stats
+## 🧰 Technical Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juni2dev&show_icons=true&theme=github_dark&hide_border=true&hide_title=true)
--->
+### 💻 Languages
+`Python` `C` `Java` `Bash`
+
+### 🔐 Security Tools
+`Wireshark` `Nmap` `Burp Suite` `Metasploit` `Wazuh`
+
+### 🌐 Networking
+`TCP/IP` `Routing` `Switching` `Firewall Configuration`
+
+### 🖥 Systems
+`Linux` `Windows Server`
+
+---
+
+## 🚀 Featured Projects
+
+### 🔎 Phishing Detection using Machine Learning
+- Built a classification model to detect malicious URLs  
+- Performed feature extraction from URL structures  
+- Improved detection accuracy using ML optimization  
+
+### 💬 UDP Messaging Server (C)
+- Developed a multi-client UDP communication server  
+- Implemented packet handling and error control mechanisms  
+
+---
+
+## 🧪 Cybersecurity Lab
+
+- Personal lab for penetration testing simulations  
+- Traffic analysis using Wireshark  
+- Vulnerability scanning and exploitation practice  
+
 ---
 
 ### 📫 Contact
@@ -35,6 +64,5 @@ I'm passionate about offensive and defensive security, networking, and applying 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edmond-kameni/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://juni2dev.github.io/)
 
----
 
-*Currently looking for a cybersecurity internship.*
+⭐ Currently looking for a Cybersecurity long-term contract
