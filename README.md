@@ -68,7 +68,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edmond-kameni/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://juni2dev.github.io/)
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5568577" style='border:none;'></iframe>
 
 ---
 
