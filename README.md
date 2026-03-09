@@ -73,5 +73,5 @@
 
 ###
 
-⭐ Currently looking for a Cybersecurity long-term contract
+⭐ Currently looking for a Cybersecurity long-term contract\
 🔎 Target Role: SOC Analyst | Network Security Engineer | Cybersecurity Engineer 
